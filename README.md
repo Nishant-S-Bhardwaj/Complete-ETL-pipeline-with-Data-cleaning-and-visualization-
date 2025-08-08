@@ -18,6 +18,4 @@ Loading Process saving clean, merged data into various formats for easy reuse.
 
 Data Visualization using plots like scatterplots, boxplots, and regression analysis to uncover insights and relationships in the data.
 
-Clear Documentation with markdown explanations suitable for learners seeking to understand ETL concepts and data workflows.
-
-This project is ideal for students, data enthusiasts, and professionals who want to learn practical ETL workflows, data cleaning best practices, and visualization techniques
+### This project is ideal for students, data enthusiasts, and professionals who want to learn practical ETL workflows, data cleaning best practices, and visualization techniques
