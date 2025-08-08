@@ -2,7 +2,7 @@
 A Python-based ETL workflow that extracts data from CSV, JSON, XML, and SQLite sources, cleans and transforms it (handling missing values, duplicates, outliers, scaling, and feature engineering), and loads the final dataset into multiple formats. Includes clear visualizations to explore global demographic and economic trends.
 This repository contains a comprehensive ETL (Extract, Transform, Load) pipeline implemented in Python, designed to handle real-world datasets involving population, economic data, and project information from multiple file formats and databases.
 
-Key features of this project include:
+## Key features of this project include:
 
 Data Extraction from diverse sources including CSV, JSON, XML files, and SQLite databases.
 
